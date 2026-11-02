@@ -1,11 +1,11 @@
 ﻿{
   "LastRelease": null,
   "LoadInfo": false,
-  "Name": "VietnameseLanguage",
+  "Name": "duc",
   "DisplayName": "Tiếng Việt",
   "GameVersion": 0.0,
   "Version": "1.17",
-  "Desc": "[Creator]\r\nMOD Việt hóa bởi vumanhduc89999-hue.\n\n[Mobile]\r\nDán link GitHub của MOD vào ModStore/Cửa hàng MOD trong game, game sẽ tự động tải về.\n\n[Lưu ý]\nNếu MOD đột nhiên bị gỡ cài đặt nghĩa là có bản cập nhật mới.\n\n[Hướng dẫn kích hoạt]\nĐể thay đổi ngôn ngữ thành công, hãy tắt MOD ngôn ngữ cũ (ví dụ MOD tiếng Indo) trước, chuyển sang ngôn ngữ khác rồi thoát hẳn game (CLOSE/EXIT APP). Sau đó vào lại game, bật MOD Tiếng Việt và RELOAD, rồi thoát hẳn game và mở lại một lần nữa.",
+  "Desc": "[Creator]\r\nMOD Việt hóa bởi vumanhduc89999-hue.\n\n[Mobile]\r\nDán link sau vào mục GitHub trong ModStore/Cửa hàng MOD, game sẽ tự động tải về:\n[b][color=#4169E1]https://github.com/vumanhduc89999-hue/duc.git[/color][/b]\n\n[Lưu ý]\nNếu MOD đột nhiên bị gỡ cài đặt nghĩa là có bản cập nhật mới.\n\n[Hướng dẫn kích hoạt]\nĐể thay đổi ngôn ngữ thành công, hãy tắt MOD ngôn ngữ cũ (ví dụ MOD tiếng Indo) trước, chuyển sang ngôn ngữ khác rồi thoát hẳn game (CLOSE/EXIT APP). Sau đó vào lại game, bật MOD Tiếng Việt và RELOAD, rồi thoát hẳn game và mở lại một lần nữa.",
   "Author": "vumanhduc89999-hue",
   "UIPackage": null,
   "ID": "1109189997",
