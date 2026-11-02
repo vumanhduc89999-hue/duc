@@ -1,4 +1,0 @@
-Nam,Quá Giang,Vương,Lý,Trương,Lưu,Hoàng Mao,Triệu,Tiền,Tôn,Chu,Ngô,Trịnh,Vương
-Nữ,Quá Giang,Vương,Lý,Trương,Lưu,Hoàng Mao,Triệu,Tiền,Tôn,Chu,Ngô,Trịnh,Vương
-
-

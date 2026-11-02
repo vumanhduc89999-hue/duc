@@ -1,5 +1,0 @@
-ItemName	Type
-Item_WuDang_HuangJing	Dược thảo
-Item_WuDang_HuangJingFen	Dược thảo
-
-

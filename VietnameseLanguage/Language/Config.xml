@@ -1,0 +1,20 @@
+﻿<Languages><List>
+	<Language Name="In">
+		<DisplayName>Tiếng Việt</DisplayName>
+		<Icon>vnflag.png</Icon>
+		<!--0:CNMODE 1:ENMODE-->
+		<UIMode>1</UIMode>
+		<Desc>Việt hóa Tu Chân Tứ Vạn Niên</Desc>
+		<!--Word Connect with space-->
+		<SpaceConnect>true</SpaceConnect>
+		<!--FamilyName Postposition-->
+		<FamilyPostposition>false</FamilyPostposition>
+		 <!--change the labelword in StoryTxt -->
+		<Labels>
+			<li Label="[ENHIM]" SecondPersonF="cô ấy" SecondPersonM="anh ấy"/>
+			<li Label="[ENHERS]" SecondPersonF="của cô ấy" SecondPersonM="của anh ấy"/>
+			<li Label="[ENHIM2]" ThirdPersonF="cô ấy" ThirdPersonM="anh ấy"/>
+			<li Label="[ENHERS2]" ThirdPersonF="của cô ấy" ThirdPersonM="của anh ấy"/>
+		</Labels>
+	</Language>	
+</List></Languages>

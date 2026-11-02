@@ -1,0 +1,55 @@
+ID	Txt
+1	Yang Mahakuasa [TITLE], saya hanya mencoba melihat apakah Anda dapat mendengar saya...hehe.
+2	Yang Maha Kuasa [TITLE], semoga masalah lutut saya segera hilang.
+3	Yang Mahakuasa [TITLE], Tuhan memberkati saya, saya ingin berkencan dengan gadis yang saya sukai.
+4	Yang Mahakuasa [TITLE], saya ingin makan enak besok...
+5	Yang Mahakuasa [TITLE], saya ingin mencari uang di lapangan.
+6	Yang Mahakuasa [TITLE], saya harap belum ada yang menunjuk Nona Lüzhu besok di rumah bordil.
+7	Yang Mahakuasa [TITLE], saya berharap manajer dapat membayar saya secara penuh besok.
+8	Yang Mahakuasa [TITLE], saya berharap seseorang merayakan ulang tahun saya bersama saya tahun ini.
+9	Yang Mahakuasa [TITLE], saya berharap bisa mendapatkan gelar dalam ujian kekaisaran.
+10	Yang Mahakuasa [TITLE], kuharap kita punya anak laki-laki kali ini.
+11	Yang Maha Kuasa [TITLE], semoga keluarga saya baik-baik saja dan sehat.
+12	Yang Maha Kuasa [TITLE], semoga kita bisa mendapatkan panen yang baik tahun ini.
+13	Yang Mahakuasa [TITLE], saya berharap dapat membeli rumah baru di kota ini tahun ini.
+14	Yang Maha Kuasa [TITLE], semoga desa kami mendapat hasil panen yang melimpah...
+15	Yang Maha Kuasa [TITLE], semoga tidak ada bencana di desa tahun ini.
+16	Yang Maha Kuasa [TITLE], semoga desa ini dapat segera dibangun kembali.
+17	Yang Mahakuasa [TITLE], saya berharap semuanya baik-baik saja di desa kami.
+18	Yang Mahakuasa [TITLE], saya berharap tidak ada serangan binatang buas di gunung tahun ini.
+19	Yang Mahakuasa [TITLE], saya berharap cuaca di kampung halaman saya baik-baik saja tahun ini.
+20	Yang Mahakuasa [TITLE], saya berharap tidak ada gelombang dingin di musim dingin ini.
+21	Yang Maha Kuasa [TITLE], semoga tahun ini curah hujan berkurang dan banjir tidak terjadi lagi.
+22	Yang Mahakuasa [TITLE], semoga tahun ini lebih banyak hujan dan tidak ada lagi kekeringan.
+23	Yang Mahakuasa [TITLE], saya berharap kota kita tidak lagi diserang oleh binatang iblis tahun ini.
+24	Yang Maha Kuasa [TITLE], semoga negara kita mendapat rejeki terbaik untuk ribuan generasi.
+25	Yang Mahakuasa [TITLE], saya berharap perdamaian akan menguasai negeri ini di tahun ini.
+26	Yang Mahakuasa [TITLE], saya berharap permusuhan di dunia ini berkurang!
+27	Yang Mahakuasa [TITLE], saya berharap semua orang di dunia ini menjadi seperti naga, yang terus-menerus memperbaiki diri!
+28	Yang Maha Kuasa [TITLE], semoga ada kedamaian dan kesejahteraan abadi di dunia.
+29	Yang Maha Kuasa [TITLE], saya berharap bos menginjak tumpukan kotoran anjing.
+30	Yang Mahakuasa [TITLE], saya berharap orang di sebelah mengalami hari kerja yang buruk.
+31	Yang Mahakuasa [TITLE], saya berharap lawan saya melakukan kesalahan hari ini.
+32	Yang Mahakuasa [TITLE], saya berharap pencuri yang mencuri dari rumah saya kemarin meninggal dengan kematian yang mengenaskan.
+33	Yang Maha Kuasa [TITLE], kuharap si idiot yang menyumpahiku itu tidak bisa buang air besar dengan tenang.
+34	Yang Mahakuasa [TITLE], saya berharap kemalangan besar menimpa keluarga keji di sebelah.
+35	Yang Mahakuasa [TITLE], saya berharap orang-orang terkutuk di sebelah itu mati dengan cara yang mengenaskan.
+36	Yang Mahakuasa [TITLE], saya berharap sesuatu yang buruk terjadi pada atasan saya sehingga saya dapat menggantikan mereka.
+37	Yang Maha Kuasa [TITLE], kuharap babi hutan merusak ladang tetanggaku.
+38	Yang Maha Kuasa [TITLE], kuharap bajingan yang mencuri uangku tersambar petir.
+39	Yang Mahakuasa [TITLE], saya berharap desa jahat di sebelah kita dihancurkan oleh binatang iblis.
+40	Yang Maha Kuasa [TITLE], semoga kita bisa menghilangkan segala potensi ancaman yang ada di sekitar desa kita.
+41	Yang Mahakuasa [TITLE], saya berharap kita dapat mengalahkan dan mencaplok desa tetangga.
+42	Yang Mahakuasa [TITLE], semoga desa tetangga mendapat hukuman dari surga.
+43	Yang Maha Kuasa [TITLE], semoga desa tetangga tersapu banjir tahun ini.
+44	Yang Mahakuasa [TITLE], saya berharap semua bandit gunung di daerah ini mati dengan cara yang kejam.
+45	Yang Maha Kuasa [TITLE], saya berharap semua orang jahat di kota ini mati dengan cara yang mengenaskan.
+46	Yang Mahakuasa [TITLE], saya berharap binatang yang menyakiti manusia punah.
+47	Yang Mahakuasa [TITLE], saya berharap setiap orang dalam jarak seratus mil menjadi pelayan saya yang rendah hati.
+48	Yang Mahakuasa [TITLE], saya harap saya bisa menangkap semua mangsa di gunung tahun ini!
+49	Yang Mahakuasa [TITLE], saya berharap Surga menunjukkan keadilan dan menghancurkan orang-orang barbar.
+50	Yang Mahakuasa [TITLE], semoga negara musuh segera dimusnahkan...sehingga kita bisa menghentikan pertempuran.
+51	Yang Mahakuasa [TITLE], saya berharap mereka yang lebih baik dari saya tidak dapat meninggal dengan damai.
+52	Yang Mahakuasa [TITLE], saya berharap kutukan dari surga turun ke atas semua orang jahat di dunia.
+53	Yang Mahakuasa [TITLE], saya berharap mereka yang menentang saya tidak mati dengan damai.
+54	Semoga hatiku selamanya tinggal di Alam Ilahi, bebas dari rasa sakit dan penderitaan serta menikmati keadaan kemurnian spiritual...
